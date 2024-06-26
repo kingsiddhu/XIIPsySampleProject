@@ -85,7 +85,7 @@ var bookConfig = {
     "AboutMobile": "",
     "AboutWebsite": "",
     "AboutDescription": "",
-    "totalPageCount": 26,
+    "totalPageCount": 12,
     "largePageWidth": 603,
     "largePageHeight": 783,
     "normalPath": "files\/large\/",
@@ -148,33 +148,19 @@ var bookConfig = {
     "searchPositionJS": "files\/search\/text_position[%d].js"
 };var fliphtml5_pages=[
     {"l":"files/large/1.jpg","t":"files/thumb/1.jpg"},
+    {"l":"files/large/53.jpg","t":"files/thumb/1.jpg"},
     {"l":"files/large/2.jpg","t":"files/thumb/2.jpg"},
+    {"l":"files/large/53.jpg","t":"files/thumb/1.jpg"},
     {"l":"files/large/3.jpg","t":"files/thumb/3.jpg"},
-    {"l":"files/large/3.1.jpg","t":"files/thumb/8.jpg"},
     {"l":"files/large/4.jpg","t":"files/thumb/4.jpg"},
     {"l":"files/large/5.jpg","t":"files/thumb/5.jpg"},
     {"l":"files/large/6.jpg","t":"files/thumb/6.jpg"},
     {"l":"files/large/7.jpg","t":"files/thumb/7.jpg"},
     {"l":"files/large/8.jpg","t":"files/thumb/8.jpg"},
     {"l":"files/large/9.jpg","t":"files/thumb/8.jpg"},
-    {"l":"files/large/10.jpg","t":"files/thumb/8.jpg"},
-    {"l":"files/large/11.jpg","t":"files/thumb/8.jpg"},
-    {"l":"files/large/12.jpg","t":"files/thumb/8.jpg"},
-    {"l":"files/large/13.jpg","t":"files/thumb/8.jpg"},
-    {"l":"files/large/14.jpg","t":"files/thumb/8.jpg"},
-    {"l":"files/large/15.jpg","t":"files/thumb/8.jpg"},
-    {"l":"files/large/16.jpg","t":"files/thumb/8.jpg"},
-    {"l":"files/large/17.jpg","t":"files/thumb/8.jpg"},
-    {"l":"files/large/18.jpg","t":"files/thumb/8.jpg"},
-    {"l":"files/large/19.jpg","t":"files/thumb/8.jpg"},
-    {"l":"files/large/20.jpg","t":"files/thumb/8.jpg"},
-    {"l":"files/large/21.jpg","t":"files/thumb/8.jpg"},
-    {"l":"files/large/22.jpg","t":"files/thumb/8.jpg"},
-    {"l":"files/large/23.jpg","t":"files/thumb/8.jpg"},
-    {"l":"files/large/24.jpg","t":"files/thumb/8.jpg"},
-    {"l":"files/large/25.jpg","t":"files/thumb/8.jpg"}];
+    {"l":"files/large/10.jpg","t":"files/thumb/8.jpg"},}];
 var language = [{"language":"English","btnFirstPage":"First","btnNextPage":"Next","btnLastPage":"Last","btnPrePage":"Previous","btnGoToHome":"Home","btnDownload":"Download","btnSoundOn":"Sound On","btnSoundOff":"Sound Off","btnPrint":"Print","btnlarge":"largenails","btnBookMark":"Bookmark","frmBookMark":"Bookmark","btnZoomIn":"Zoom In","btnZoomOut":"Zoom Out","btnAutoFlip":"Auto Flip","btnStopAutoFlip":"Stop Auto Flip","btnSocialShare":"Share","btnHelp":"Help","btnAbout":"About","btnSearch":"Search","btnFullscreen":"Fullscreen","btnExitFullscreen":"Exit Fullscreen","btnMore":"More","frmPrintCaption":"Print","frmPrintall":"Print All Pages","frmPrintcurrent":"Print Current Page","frmPrintRange":"Print Range","frmPrintexample":"Example: 2,3,5-10","frmPrintbtn":"Print","frmShareCaption":"Share","frmShareLabel":"Share","frmShareInfo":"You can easily share this publication to social networks.Just click the appropriate button below","frminsertLabel":"Insert to Site","frminsertInfo":"Use the code below to embed this publication to your website.","frmaboutcaption":"Contact","frmaboutcontactinformation":"Contact Information","frmaboutADDRESS":"Address","frmaboutEMAIL":"Email","frmaboutWEBSITE":"Website","frmaboutMOBILE":"Mobile","frmaboutAUTHOR":"Author","frmaboutDESCRIPTION":"Description","frmSearch":"Search","frmToc":"Table Of Contents","btnTableOfContent":"Table Of Contents","btnNote":"Annotation","lblLast":"This is the last page.","lblFirst":"This is the first page.","lblFullscreen":"Click to view in fullscreen","lblName":"Name","lblPassword":"Password","lblLogin":"Login","lblCancel":"Cancel","lblNoName":"User name can not be empty.","lblNoPassword":"Password can not be empty.","lblNoCorrectLogin":"Please enter the correct user name and password.","btnVideo":"Video Gallery","btnSlideShow":"Slideshow","pnlSearchInputInvalid":"The search text is too short.","btnDragToMove":"Move by mouse drag","btnPositionToMove":"Move by mouse position","lblHelp1":"Drag the page corner to view","lblHelp2":"Double click to zoom in, out","lblCopy":"Copy","lblAddToPage":"Add To Page","lblPage":"Page","lblTitle":"Title","lblEdit":"Edit","lblDelete":"Delete","lblRemoveAll":"Remove All","tltCursor":"Cursor","tltAddHighlight":"Add highlight","tltAddTexts":"Add texts","tltAddShapes":"Add shapes","tltAddNotes":"Add notes","tltAddImageFile":"Add image file","tltAddSignature":"Add signature","tltAddLine":"Add line","tltAddArrow":"Add arrow","tltAddRect":"Add rect","tltAddEllipse":"Add ellipse","lblDoubleClickToZoomIn":"Double click to zoom in.","lblPages":"Pages","infCopyToClipboard":"Your browser dose not support clipboard, please do it yourself.","lblDescription":"Title","frmLinkLabel":"Link","infNotSupportHtml5":"HTML5 is not supported by your current web browser, please read the book with latest verson web browser. Here we recommend you to read it with Chrome.","frmHowToUse":"How To Use","lblHelpPage1":"Move your finger to flip the book page.","lblHelpPage2":"Zoom in by using gesture or double click on the page.","lblHelpPage3":"Click to view the table of content, bookmarks and share your books via social networks.","lblHelpPage4":"Add bookmarks, use search function and auto flip the book.","lblHelpPage5":"Open the largenails to overview all book pages.","frmQrcodeCaption":"Scan the bottom two-dimensional code to view with mobile phone.","btnPageBack":"Backward","btnPageForward":"Forward","btnLanguage":"Change Language","msgConfigMissing":"Configuration file is missing, unable to open the book."}];;
-var pageEditor = {"setting":{}, "pageAnnos":[[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[]]};
+var pageEditor = {"setting":{}, "pageAnnos":[[],[],[],[],[],[],[],[],[],[],[],[]]};
 var ols = [];
 var slideshow = [];
 var videoList = [];
